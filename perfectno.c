@@ -14,5 +14,6 @@ int main() {
         printf("Perfect Number");
     else
         printf("Not a Perfect Number");
+
     return 0;
 }
